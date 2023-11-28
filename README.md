@@ -1,4 +1,6 @@
 # Pymaceuticals Inc. Analysis
+Module 6 Data Visualization Challenge -- Berkeley Data Analytics Boot Camp
+
 This project is about examining the thousands of different mice that were tested with different cancer regimens and analyzing their results. 
 We analyze their tumor sizes at different stages as well as try to draw correlations with other metrics to gain valuable insight.
 
